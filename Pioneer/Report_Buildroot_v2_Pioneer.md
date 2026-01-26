@@ -53,7 +53,6 @@ sudo dd if= firmware_sg2042-single-sg2042-upstream-v6.16.y.img of=/dev/sdX bs=1M
 
 Log:
 
-(如果有的话可以补充)
 
 ### 登录系统
 
@@ -270,3 +269,4 @@ cd ..; ruyi-deactivate
 
 
 测试成功。
+
