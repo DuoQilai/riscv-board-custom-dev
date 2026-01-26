@@ -51,7 +51,6 @@ zstd -d revyos-pioneer-20250901-185948.img.zst
 sudo dd if= firmware_sg2042-single-sg2042-upstream-v6.16.y.img of=/dev/sdX bs=1M; sync
 ```
 
-Log:
 
 
 ### 登录系统
@@ -218,7 +217,7 @@ xtheadcondmov_xtheadfmemidx_xtheadmac_xtheadmemidx_xtheadmempair_xtheadsync" com
 
 ![llvm-coremark-compile](./images/llvm-coremark-compile.png)
 
-![llvm-coremark-compile](./images/llvm-coremark-compile-176940871120111.png)
+![llvm-coremark-compile](./images/llvm-coremark-compile-run.png)
 
 返回上级目录并退出ruyi GCC虚拟环境
 
@@ -269,4 +268,5 @@ cd ..; ruyi-deactivate
 
 
 测试成功。
+
 
