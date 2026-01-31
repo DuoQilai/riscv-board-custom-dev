@@ -1,4 +1,4 @@
-### Fedora 38 Milk-V Pioneer系统版本和工具链测试报告
+# Fedora 38 Milk-V Pioneer系统版本和工具链测试报告
 
 ## 测试环境
 
@@ -61,7 +61,6 @@ sudo dd if= firmware_sg2042-single-sg2042-upstream-v6.16.y.img of=/dev/sdX bs=1M
 
 2. 将前面板Type-C接口通过数据线连接至电脑（此接口为串口）
 
-(如果有图可以加)
 
 #### 打开终端，使用 minicom 或 tio 连接串口
 
@@ -225,6 +224,11 @@ xtheadcondmov_xtheadfmemidx_xtheadmac_xtheadmemidx_xtheadmempair_xtheadsync" com
 cd ..; ruyi-deactivate
 ```
 
+## 完整测试过程
+
+屏幕录制
+
+[![asciicast](https://asciinema.org/a/777339.svg)](https://asciinema.org/a/777339)
 ## 预期结果
 
 在本次测试中，预期达到以下成果：
@@ -268,3 +272,4 @@ cd ..; ruyi-deactivate
 
 
 测试成功。
+
