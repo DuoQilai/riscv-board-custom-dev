@@ -1,4 +1,4 @@
-# 基于 ruyiSDK 的 Milk-V Duo S Pico-8SEG-LED 编译测试报告
+# 基于 RuyiSDK 的 Milk-V Duo S Pico-8SEG-LED 编译测试报告
 
 ## 测试环境
 
