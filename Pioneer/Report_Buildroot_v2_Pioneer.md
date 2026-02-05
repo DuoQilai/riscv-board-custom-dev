@@ -1,12 +1,12 @@
-# Fedora 38 Milk-V Pioneer系统版本和工具链测试报告
+# RevyOS Milk-V Pioneer 系统版本和工具链测试报告
 
 ## 测试环境
 
 ### 操作系统信息
 
-- 系统版本：Fedora 38
+- 系统版本：RevyOS 20250901
 
-- 下载链接：https://github.com/milkv-pioneer/pioneer-buildroot-sdk-v2/releases/download/v2.0.1/milkv-pioneer-musl-riscv64-sd_v2.0.1.img.zip
+- 下载链接：https://fast-mirror.isrc.ac.cn/revyos/extra/images/sg2042/20250901/firmware_sg2042-single-sg2042-upstream-v6.16.y.img
 
 - 参考安装文档：https://milkv.io/zh/docs/pioneer/getting-started/InstallOS
 
@@ -272,4 +272,5 @@ cd ..; ruyi-deactivate
 
 
 测试成功。
+
 
