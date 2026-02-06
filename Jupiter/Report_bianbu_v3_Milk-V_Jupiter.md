@@ -13,7 +13,7 @@
 
 ### 硬件信息
 
-- BPI-F3
+-  Milk-V Jupiter
 
   - 设备照片
 
