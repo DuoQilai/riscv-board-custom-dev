@@ -11,28 +11,32 @@
 - 烧录 [操作系统名称]镜像[board-name/boot_board-name]
 - 串口 / SSH 登录[board-name/boot_board-name]
 
-### 2.2 在此开发板上使用 RuyiSDK
+### 2.2 RuyiSDK 环境初始化
 - 安装 ruyi [board-name/boot_board-name]
 - 使用 ruyi 安装工具链 [board-name/boot_board-name]
 	- 使用 ruyi 安装 [工具链名]工具链
 	- 使用 ruyi 安装 [例如：LLVM/GCC]工具链
 
-## 3. RuyiSDK 基础开发示例
+## 3. RuyiSDK 基础示例
 
 - [基础编译示例名] [board-name/example_example-name_board-name]
-- [例如：Hello World (GCC版) ]
-- [例如：Coremark (LLVM版)]
+- [例如：Hello World、Coremark]
 
-## 4. RuyiSDK 功能与库示例
+## 4. RuyiSDK 外设示例
 
-- [功能/库名] [board-name/example_example-name_board-name]
-- [例如：wiringX、pinpong]
+- [外设示例名] [board-name/example_example-name_board-name]
+- [例如：GPIO、I2C]
 
-## 5. RuyiSDK 应用示例
+## 5. RuyiSDK 多媒体示例
 
-- [应用实战名] [board-name/example_example-name_board-name]
-- [例如：简易Web服务器、图像识别示例]
+- [多媒体示例名] [board-name/example_example-name_board-name]
+- [例如：Display、Video]
 
-## 6. 常见问题 (FAQ)
+## 6. RuyiSDK AI 示例
+
+- [AI 示例名] [board-name/example_example-name_board-name]
+- [例如：YOLOv8检测]
+
+## 7. 常见问题 (FAQ)
 
 - 常见问题Q&A [board-name/notes]
