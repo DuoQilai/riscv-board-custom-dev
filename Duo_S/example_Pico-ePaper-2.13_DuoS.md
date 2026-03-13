@@ -17,7 +17,9 @@
 #### 操作系统安装与启动验证
 
 确保您的开发板已准备好系统。
-参考文档：
+
+
+参考文档：https://github.com/DuoQilai/riscv-board-custom-dev/blob/main/Duo_S/boot_DuoS.md
 
 ##### 通过串口连接
 将 microSD 卡插入 Milk-V Duo S，重启。
